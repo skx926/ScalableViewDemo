@@ -1,0 +1,2 @@
+# ScalableViewDemo
+利用Pinch和Pan手势实现UIView的缩放和拖拽的Demo项目
